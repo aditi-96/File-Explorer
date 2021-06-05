@@ -1,5 +1,5 @@
-# Command to make the program
+### Build Command
 g++ main.cpp normal.cpp listdir.cpp terminal.cpp header.h
 
-# Run
+### Run Command
 ./a.out
